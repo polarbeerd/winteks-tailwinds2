@@ -12,7 +12,7 @@ const About = () => {
         <h2 className="text-3xl font-bold mb-4 text-center">About Me</h2>
         <div className="flex flex-col md:flex-row items-center justify-center">
           <img
-            src="https://via.placeholder.com/300"
+            src="/hasan.png"
             alt="Profile"
             className="rounded-full w-64 h-64 object-cover mb-8 md:mb-0 md:mr-8"
           />
